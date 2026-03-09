@@ -1,2 +1,3 @@
 Hello World!
 In this repo we will practice how to work wit Git!
+First, we can create a repo on GitHub, and then link the local repo to it!
